@@ -10,7 +10,7 @@
 
 - 📫 Ponte en contacto conmigo **angel95astur@gmail.com**
 
-- ⚡ Datos curiosos **Cuando algo me gusta puedo pasarme horas programando con ello**
+- ⚡ Datos curiosos **Cuando un proyecto me gusta puedo pasarme horas picando código**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
