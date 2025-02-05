@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=algol95&label=Profile%20views&color=0e75b6&style=flat" alt="algol95" /> </p>
 
-- Actualmente estoy trabajando en [Tienda Online Merchandasing](https://github.com/Algol95/GSproyectoMerch/tree/spring/ProyectoFinalAMCA)
+- Actualmente estoy trabajando en [Escuela de Música: Xylophone](https://github.com/Algol95/toquen-DOM)
 
 - 🌱 Actualmente estoy aprendiendo **Bootcamp FullStack orientado a Salesforce - Factoria F5**
 
