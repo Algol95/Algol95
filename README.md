@@ -6,9 +6,9 @@
 
 - Actualmente estoy trabajando en [Tienda Online Merchandasing](https://github.com/Algol95/GSproyectoMerch/tree/spring/ProyectoFinalAMCA)
 
-- 🌱 Actualmente estoy aprendiendo **Spring Tools Framework, Curso Full-Stack (Udemy)**
+- 🌱 Actualmente estoy aprendiendo **Bootcamp FullStack orientado a Salesforce - Factoria F5**
 
-- 📫 Ponte en contacto conmigo **angel95astur@gmail.com**
+- 📫 Contacto: **angelaragon.developer@gmail.com**
 
 - ⚡ Datos curiosos **Cuando un proyecto me gusta puedo pasarme horas picando código**
 
