@@ -67,8 +67,4 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=algol95&show_icons=true&locale=en&layout=compact" alt="algol95" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=algol95&show_icons=true&locale=en" alt="algol95" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=algol95&" alt="algol95" /></p>
+![Algol95's GitHub stats](https://github-readme-stats.vercel.app/api?username=algol95&show_icons=true&theme=radical&locale=es&card_width=510) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical&locale=es&layout=compact)
