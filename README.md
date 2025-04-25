@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=algol95&label=Profile%20views&color=0e75b6&style=flat" alt="algol95" /> </p>
 
-- Actualmente estoy trabajando en [Escuela de Música: Xylophone](https://github.com/Algol95/toquen-DOM)
+- Actualmente estoy trabajando en [Traumatic Evolutions](https://github.com/TraumaticEvolutions)
 
 - 🌱 Actualmente estoy aprendiendo **Bootcamp FullStack orientado a Salesforce - Factoria F5**
 
 - 📫 Contacto: **angelaragon.developer@gmail.com**
 
-- ⚡ Datos curiosos **Cuando un proyecto me gusta puedo pasarme horas picando código**
+- ⚡ Datos curiosos **Cuando un proyecto me gusta puedo pasarme todo el día picando código**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -64,6 +64,18 @@
   </a>
   <a href="https://www.mysql.com">
     <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+  <a href="https://es.react.dev">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+  <a href="https://es.python.org">
+    <img src="https://skillicons.dev/icons?i=py" />
+  </a>
+  <a href="https://sass-lang.com">
+    <img src="https://skillicons.dev/icons?i=sass" />
+  </a>
+  <a href="https://nodejs.org/en">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
   </a>
 </p>
 
