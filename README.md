@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=algol95&label=Profile%20views&color=0e75b6&style=flat" alt="algol95" /> </p>
 
-- Actualmente estoy trabajando en [Traumatic Evolutions](https://github.com/TraumaticEvolutions)
+- Actualmente estoy trabajando como Freelancer
 
-- 🌱 Actualmente estoy aprendiendo **Bootcamp FullStack orientado a Salesforce - Factoria F5**
+- 🌱 Actualmente estoy aprendiendo Python y Django
 
 - 📫 Contacto: **angelaragon.developer@gmail.com**
 
