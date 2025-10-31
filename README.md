@@ -6,7 +6,7 @@
 
 - Actualmente estoy trabajando como Freelancer
 
-- 🌱 Actualmente estoy aprendiendo Python y Django
+- 🌱 Actualmente estoy trabajando en mi proyecto como creador de contenido
 
 - 📫 Contacto: **angelaragon.developer@gmail.com**
 
