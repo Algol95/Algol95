@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Ángel Miguel Cubino Aragón</h1>
+<h1 align="center">Hola 👋, soy Ángel Miguel C. Aragón</h1>
 <h3 align="center">Técnico Superior de Desarrollo de Aplicaciones Web, Técnico en Sistemas Microinformáticos y Redes</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
