@@ -1,82 +1,68 @@
-<h1 align="center">Hola 👋, soy Ángel Miguel C. Aragón</h1>
-<h3 align="center">Técnico Superior de Desarrollo de Aplicaciones Web, Técnico en Sistemas Microinformáticos y Redes</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h1 align="center">👋 Hey, soy Ángel Aragón</h1>
+<h3 align="center">💻 Full Stack Developer | 🎥 Vtuber Tech Content Creator</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=algol95&label=Profile%20views&color=0e75b6&style=flat" alt="algol95" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Desarrollador+Web+Full+Stack;Creador+de+contenido+Tech;Java+%7C+Spring+%7C+React;Siempre+aprendiendo+nuevas+cosas+🚀" />
+</p>
 
-- Actualmente estoy trabajando como creador de contenido Vtuber, teniendo una sección de programación. Puedes ver la organización dedicada <a href="https://github.com/Gaysper-Coder" target="blank">aquí</a>.
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 Actualmente estoy trabajando en mi proyecto como creador de contenido
+---
 
+### 🧠 Sobre mí
+
+💡 Desarrollador apasionado por crear aplicaciones web completas  
+🎥 Creador de contenido Vtuber enfocado en programación  
+🚀 Construyendo proyectos reales mientras enseño en directo  
+
+👉 Organización de contenido:  
+🔗 https://github.com/Gaysper-Coder  
+
+---
+
+### ⚡ Un poco más
+
+- 🌱 Actualmente creciendo como creador tech y desarrollador  
+- 🔥 Me flipo con los proyectos (nivel: no veo la luz del sol)  
 - 📫 Contacto: **angelaragon.developer@gmail.com**
 
-- ⚡ Datos curiosos **Cuando un proyecto me gusta puedo pasarme todo el día picando código**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ángel miguel cubino aragón" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ángel miguel cubino aragón" height="30" width="40" /></a>
-<a href="https://www.youtube.com/playlist?list=PLTOGKQ7LAgcsoKDf9U4NUnK9wP6thuopX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@gayspervt" height="30" width="40" /></a>
-</p>
+### 🌐 Conecta conmigo
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="center">
-  <a href="https://git-scm.com">
-    <img src="https://skillicons.dev/icons?i=git" />
-  </a>
-  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons?i=js" />
-  </a>
-   <a href="https://developer.mozilla.org/es/docs/Glossary/HTML5">
-    <img src="https://skillicons.dev/icons?i=html" />
-  </a>
-  <a href="https://developer.mozilla.org/es/docs/Web/CSS">
-    <img src="https://skillicons.dev/icons?i=css" />
-  </a>
-  <a href="https://getbootstrap.com">
-    <img src="https://skillicons.dev/icons?i=bootstrap" />
-  </a>
-  <a href="https://www.java.com/es/">
-    <img src="https://skillicons.dev/icons?i=java" />
-  </a>
-  <a href="https://spring.io/projects/spring-boot">
-    <img src="https://skillicons.dev/icons?i=spring" />
-  </a>
-  <a href="https://www.php.net/manual/es/intro-whatis.php">
-    <img src="https://skillicons.dev/icons?i=php" />
-  </a>
-  <a href="https://www.postman.com">
-    <img src="https://skillicons.dev/icons?i=postman" />
-  </a>
-  <a href="https://eclipseide.org">
-    <img src="https://skillicons.dev/icons?i=eclipse" />
-  </a>
-  <a href="https://code.visualstudio.com">
-    <img src="https://skillicons.dev/icons?i=vscode" />
-  </a>
-  <a href="https://www.figma.com/es-es/">
-    <img src="https://skillicons.dev/icons?i=figma" />
-  </a>
-  <a href="https://es.stackoverflow.com">
-    <img src="https://skillicons.dev/icons?i=stackoverflow" />
-  </a>
-  <a href="https://www.adobe.com/es/products/photoshop.html">
-    <img src="https://skillicons.dev/icons?i=ps" />
-  </a>
-  <a href="https://www.mysql.com">
-    <img src="https://skillicons.dev/icons?i=mysql" />
-  </a>
-  <a href="https://es.react.dev">
-    <img src="https://skillicons.dev/icons?i=react" />
-  </a>
-  <a href="https://es.python.org">
-    <img src="https://skillicons.dev/icons?i=py" />
-  </a>
-  <a href="https://sass-lang.com">
-    <img src="https://skillicons.dev/icons?i=sass" />
-  </a>
-  <a href="https://nodejs.org/en">
-    <img src="https://skillicons.dev/icons?i=nodejs" />
-  </a>
+<a href="https://linkedin.com/in/ángel miguel cubino aragón">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://www.youtube.com/playlist?list=PLTOGKQ7LAgcsoKDf9U4NUnK9wP6thuopX">
+  <img src="https://skillicons.dev/icons?i=youtube" />
+</a>
 </p>
 
-![Algol95's GitHub stats](https://github-readme-stats.vercel.app/api?username=algol95&show_icons=true&theme=radical&locale=es&card_width=510) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algol95&theme=radical&locale=es&layout=compact)
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,js,html,css,sass,bootstrap,php,python,mysql,git,postman,figma,vscode,eclipse,ps" />
+</p>
+
+---
+
+### 📊 Estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=algol95&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=algol95&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🚀 Filosofía
+
+```bash
+while(alive){
+    code();
+    learn();
+    improve();
+}
