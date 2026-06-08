@@ -49,15 +49,6 @@
 
 ---
 
-### 📊 Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=algol95&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=algol95&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 🚀 Filosofía
 
 ```bash
