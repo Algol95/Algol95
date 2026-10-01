@@ -8,8 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Desarrollador+Web+Full+Stack;Creador+de+contenido+Tech;Java+%7C+Spring+%7C+React;Siempre+aprendiendo+nuevas+cosas+🚀" />
 </p>
 
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 ---
 
 ## 🧠 Sobre mí
