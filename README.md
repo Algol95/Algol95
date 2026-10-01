@@ -12,11 +12,7 @@
 ### 🧠 Sobre mí
 
 💡 Desarrollador apasionado por crear aplicaciones web completas  
-🎥 Creador de contenido Vtuber enfocado en programación  
-🚀 Construyendo proyectos reales mientras enseño en directo  
-
-👉 Organización de contenido:  
-🔗 https://github.com/Gaysper-Coder  
+🚀 Construyendo proyectos reales
 
 ---
 
